@@ -1,0 +1,12 @@
+fastapi==0.128.7
+uvicorn==0.40.0
+pydantic==2.12.5
+python-dotenv==1.2.1
+sqlalchemy>=2.0.0
+alembic>=1.18.0
+psycopg2-binary>=2.9.0
+email-validator>=2.0.0
+pytest>=9.0.0
+httpx>=0.28.0
+pytest-asyncio>=0.25.0
+Faker>=38.0.0
